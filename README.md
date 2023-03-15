@@ -1,3 +1,6 @@
+THE DOT STUDIO
+
+
 TENER ACTIVADO 
 MYSQL, Y APACHE PARA SU FUNCIONAMIENTO
 
@@ -10,3 +13,6 @@ el admin del sistema es
 
 email: ivan@gmail.com
 pass: 123456
+
+en el video que adjunte en el correo esta el funcionamiento del sistema
+gracias.

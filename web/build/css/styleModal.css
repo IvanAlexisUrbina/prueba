@@ -1,0 +1,37 @@
+#usuarios-table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+#usuarios-table thead {
+    background-color: #141414;
+    color: #fff;
+}
+
+#usuarios-table th,
+#usuarios-table td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+#usuarios-table tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+
+#usuarios-table tbody tr:hover {
+    background-color: #e2e2e2;
+}
+
+#usuarios-table th:first-child,
+#usuarios-table td:first-child {
+    width: 60%;
+}
+
+#usuarios-table th:last-child,
+#usuarios-table td:last-child {
+    width: 40%;
+}

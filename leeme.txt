@@ -1,0 +1,3 @@
+EN LA CARPETA BD ESTA LA BASE DE DATOS.
+prueba.sql
+la base de datos se debe llamar prueba.
